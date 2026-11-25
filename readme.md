@@ -1,3 +1,4 @@
+```mermaid
 %%{init: {'theme': 'base', 'flowchart': {'nodeSpacing': 28, 'rankSpacing': 45, 'curve': 'basis'}, 'themeVariables': {'fontFamily': 'Segoe UI, Arial, sans-serif', 'fontSize': '13px', 'primaryColor': '#FFFFFF', 'primaryBorderColor': '#93C5FD', 'lineColor': '#0B65B8', 'background': '#FFFFFF'}}}%%
 flowchart LR
     subgraph CANVAS[" "]
@@ -50,3 +51,4 @@ flowchart LR
     style PLANT fill:#f8fbff,stroke:#93c5fd,stroke-width:1.5px,color:#083358
     style WAN fill:#fffdf9,stroke:#cbd5e1,stroke-width:1.5px,stroke-dasharray: 4 4,color:#1e293b
     style HO fill:#eff6ff,stroke:#0b65b8,stroke-width:2px,color:#0b65b8
+```
